@@ -1,3 +1,12 @@
+![Azure Maps Cover](azure_maps_cover.png)
+
+---
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?logo=Power%20BI)](https://app.powerbi.com/...) 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=GitHub)](https://github.com/arielovimag/adventureworks-bi-portfolio)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=Microsoft%20SQL%20Server)]()
+[![Azure Maps](https://img.shields.io/badge/Azure-Maps-blue?logo=Microsoft%20Azure)]()
+
 # adventureworks-bi-portfolio
 Full Business Intelligence Portfolio | Adventure Works Sales Data Analysis | Power BI Projects
 # 🚀 Business Intelligence Portfolio – Phase 2
@@ -91,5 +100,19 @@ In Phase 3 I will integrate:
 
 ---
 
-**🔗 Let's connect on [LinkedIn]([YOUR-LINKEDIN-PROFILE-URL](https://www.linkedin.com/in/arieloviedomaglione/))!**
+## 🔗 Project Links
+
+- 🎯 [GitHub Master Portfolio](https://github.com/arielovimag/adventureworks-bi-portfolio)
+- 📊 [Power BI Service (Public Link)](https://app.powerbi.com/...) *(Insert your published report URL)*
+
+---
+
+## 📩 Contact
+
+> **Ariel Oviedo Maglione**  
+> 📞 (+34) 645584506  
+> 📧 arielovimag@gmail.com  
+> 💼 [LinkedIn Profile](https://www.linkedin.com/in/arielovimag/)
+
+---
 
