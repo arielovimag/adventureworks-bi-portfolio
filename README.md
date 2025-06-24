@@ -7,9 +7,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=Microsoft%20SQL%20Server)]()
 [![Azure Maps](https://img.shields.io/badge/Azure-Maps-blue?logo=Microsoft%20Azure)]()
 
-# adventureworks-bi-portfolio
-Full Business Intelligence Portfolio | Adventure Works Sales Data Analysis | Power BI Projects
-# 🚀 Business Intelligence Portfolio – Phase 2
+# 🚀 Business Intelligence Portfolio – (Phase 2)
 
 ## 📊 Regional Sales Performance with Azure Maps – Adventure Works Dataset
 
@@ -24,6 +22,9 @@ This project represents Phase 2 of my BI Portfolio development, focusing on adva
 ✅ Hierarchies: Country ➔ State ➔ City  
 ✅ Dynamic Top Reseller & Revenue measures  
 ✅ Advanced Crossfilter Management
+✅ Dynamic Custom Tooltips
+
+This second phase builds directly on the full data model and logic of the Executive Sales Dashboard (Phase 1).
 
 ---
 
@@ -77,6 +78,19 @@ This project represents Phase 2 of my BI Portfolio development, focusing on adva
 
 ---
 
+## 📊 Key Features
+
+- 🌐 **Dynamic Geographical Analytics** using Azure Maps with State → City drilldown.
+- 🎯 **Dynamic Custom Tooltips** displaying detailed key metrics for selected locations (Revenue, Profit, Orders, Units, Profit Margin, Average Ticket).
+- 💡 **Dynamic Smart Narrative** fully integrated with slicer selections and filter context for real-time contextual storytelling.
+- 📈 **Top State and Top Reseller DAX Measures** dynamically adapting to any country-level filter applied.
+- 🔎 Interactive **Decomposition Tree** to analyze sales by Category, Subcategory, and Product.
+- 📊 **Fully synchronized slicers** to simulate regional performance monitoring.
+- 🏷 **Data Mining Process** includes handling of unlinked foreign keys (-1 values), ensuring data integrity and relationship consistency.
+- 🚀 Optimized for recruiter-friendly navigation with dedicated GitHub structure.
+
+---
+
 ## 📄 Data Dictionary
 
 | Table | Key Fields | Description |
@@ -109,7 +123,8 @@ In Phase 3 I will integrate:
 
 ## 📩 Contact
 
-> **Ariel Oviedo Maglione**  
+> **Ariel Oviedo Maglione**
+> 💻 Data Analyst | BI Analyst
 > 📞 (+34) 645584506  
 > 📧 arielovimag@gmail.com  
 > 💼 [LinkedIn Profile](https://www.linkedin.com/in/arielovimag/)
