@@ -103,7 +103,7 @@ In Phase 3 I will integrate:
 ## 🔗 Project Links
 
 - 🎯 [GitHub Master Portfolio](https://github.com/arielovimag/adventureworks-bi-portfolio)
-- 📊 [Power BI Service (Public Link)]((https://app.powerbi.com/view?r=eyJrIjoiMDEzYTZmNjMtYjNjMS00YzUyLTlhOWEtODY4ZmY4ZmZjZmRiIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9))
+- 📊 [Power BI Service (Public Link)](https://app.powerbi.com/...)[ *(Insert your published report URL)*](https://app.powerbi.com/view?r=eyJrIjoiMDEzYTZmNjMtYjNjMS00YzUyLTlhOWEtODY4ZmY4ZmZjZmRiIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
 
 ---
 
