@@ -66,6 +66,7 @@ This second phase builds directly on the full data model and logic of the Execut
   - Top Performing State & Reseller
 - Fully automated Smart Narrative for dynamic data storytelling
 
+![Azure Maps](screenshot_3.png)
 ---
 
 ## 🎯 Learning Objectives
