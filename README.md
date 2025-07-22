@@ -67,6 +67,7 @@ This second phase builds directly on the full data model and logic of the Execut
 - Fully automated Smart Narrative for dynamic data storytelling
 
 ![Azure Maps](screenshot_3.png)
+
 ---
 
 ## 🎯 Learning Objectives
@@ -89,6 +90,8 @@ This second phase builds directly on the full data model and logic of the Execut
 - 📊 **Fully synchronized slicers** to simulate regional performance monitoring.
 - 🏷 **Data Mining Process** includes handling of unlinked foreign keys (-1 values), ensuring data integrity and relationship consistency.
 - 🚀 Optimized for recruiter-friendly navigation with dedicated GitHub structure.
+
+![Azure Maps](screenshot_4.png)
 
 ---
 
