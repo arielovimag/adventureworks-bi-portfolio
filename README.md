@@ -124,7 +124,7 @@ In Phase 3 I will integrate:
 ## 📩 Contact
 
 > **Ariel Oviedo Maglione**
-> 💻 Data Analyst | BI Analyst
+> 💻 Supply Chain Analyst | BI Analyst
 > 📞 (+34) 645584506  
 > 📧 arielovimag@gmail.com  
 > 💼 [LinkedIn Profile](https://www.linkedin.com/in/arielovimag/)
